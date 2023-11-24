@@ -1,5 +1,5 @@
 ## birthday-mobile
-
+原链接见：https://github.com/IcedSoul/tiny-heart，感谢作者
 ### 说明
 
 根据birthday-basic原版进行的修改，正如原版的README所说：
